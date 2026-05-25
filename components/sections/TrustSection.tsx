@@ -47,7 +47,7 @@ export default function TrustSection() {
             Built on a foundation of <em style={{ fontStyle: "normal", color: "#4ade80" }}>trust</em>
           </h2>
           <p className="text-[18px] max-w-[580px] leading-[1.7]" style={{ color: "rgba(255,255,255,.6)" }}>
-            In a market where scams are rampant, trust isn't a feature — it's our entire foundation.
+            In a market where scams are rampant, trust isn&apos;t a feature — it&apos;s our entire foundation.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

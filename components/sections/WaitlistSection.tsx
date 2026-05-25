@@ -84,8 +84,8 @@ Join thousands of Nigerians who are done with the old broken system. Get early a
               <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }}
                 className="bg-white rounded-3xl p-8 shadow-2xl text-center">
                 <div className="text-[48px] mb-4">🎉</div>
-                <h3 className="text-[20px] font-bold text-primary-800 mb-2" style={{ fontFamily: "var(--font-display)" }}>You're on the list!</h3>
-                <p className="text-[14px] text-gray-600">Welcome to RealDom. We'll be in touch soon with your early access details. Tell a friend!</p>
+                <h3 className="text-[20px] font-bold text-primary-800 mb-2" style={{ fontFamily: "var(--font-display)" }}>You&apos;re on the list!</h3>
+                <p className="text-[14px] text-gray-600">Welcome to RealDom. We&apos;ll be in touch soon with your early access details. Tell a friend!</p>
               </motion.div>
             ) : (
               <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
@@ -139,7 +139,7 @@ Join thousands of Nigerians who are done with the old broken system. Get early a
                   <button type="submit" disabled={!isValid || status === "loading"}
                     className="w-full py-3.5 bg-primary-800 text-white rounded-xl text-[15px] font-bold flex items-center justify-center gap-2 hover:bg-primary-700 hover:translate-y-[-1px] transition-all disabled:opacity-50 disabled:cursor-not-allowed mt-1"
                     style={{ boxShadow: "0 8px 32px rgba(22,101,52,.25)", fontFamily: "var(--font-display)" }}>
-                    {status === "loading" ? <><Loader2 className="w-4 h-4 animate-spin" /> Joining waitlist...</> : <>Join Waitlist — It's Free 🚀</>}
+                    {status === "loading" ? <><Loader2 className="w-4 h-4 animate-spin" /> Joining waitlist...</> : <>Join Waitlist — It&apos;s Free 🚀</>}
                   </button>
 
                   <div className="flex items-center justify-center gap-1.5 text-[12px] text-gray-400">

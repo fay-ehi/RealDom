@@ -38,7 +38,7 @@ export default function SolutionSection() {
             Find your home in <em style={{ fontStyle: "normal", color: "#15803d" }}>3 simple steps</em>
           </h2>
           <p className="text-[18px] text-gray-600 max-w-[580px] mx-auto leading-[1.7]">
-            We've removed all the unnecessary friction from the Nigerian rental process. It's finally this simple.
+            We&apos;ve removed all the unnecessary friction from the Nigerian rental process. It&apos;s finally this simple.
           </p>
         </div>
 
