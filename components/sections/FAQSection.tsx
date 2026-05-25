@@ -64,7 +64,7 @@ export default function FAQSection() {
             Got questions? <em style={{ fontStyle: "normal", color: "#15803d" }}>We have answers.</em>
           </h2>
           <p className="text-[18px] text-gray-600 max-w-[580px] mx-auto leading-[1.7]">
-            Everything you need to know about RealDom, our verification process, and how we're changing Nigerian real estate.
+            Everything you need to know about RealDom, our verification process, and how we&apos;re changing Nigerian real estate.
           </p>
         </div>
         <div className="max-w-[720px] mx-auto flex flex-col gap-2">

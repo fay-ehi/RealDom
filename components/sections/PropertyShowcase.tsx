@@ -75,7 +75,7 @@ export default function PropertyShowcase() {
             Homes across <em style={{ fontStyle: "normal", color: "#15803d" }}>Nigeria</em>
           </h2>
           <p className="text-[18px] text-gray-600 max-w-[580px] leading-[1.7]">
-            Verified properties in Nigeria's biggest cities, priced transparently and ready to rent.
+            Verified properties in Nigeria&apos;s biggest cities, priced transparently and ready to rent.
           </p>
         </div>
 
