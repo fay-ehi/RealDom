@@ -47,7 +47,7 @@ export default function FeaturesSection() {
         <div className="mb-14">
           <span className="section-label">Features</span>
           <h2 className="text-[clamp(30px,4vw,44px)] font-extrabold text-gray-900 mb-4 tracking-[-1px]" style={{ fontFamily: "var(--font-display)" }}>
-            Everything you need, <em style={{ fontStyle: "normal", color: "#15803d" }}>nothing you don't</em>
+            Everything you need, <em style={{ fontStyle: "normal", color: "#15803d" }}>nothing you don&apos;t</em>
           </h2>
           <p className="text-[18px] text-gray-600 max-w-[580px] leading-[1.7]">
 A complete platform designed for both sides of the rental journey. Powerful tools, simple experience.

@@ -43,7 +43,7 @@ export default function ProblemSection() {
             Renting in Nigeria is <em style={{ fontStyle: "normal", color: "#15803d" }}>broken.</em>
           </h2>
           <p className="text-[18px] text-gray-600 max-w-[580px] leading-[1.7]">
-If you've searched for an apartment in Nigeria, you've gone through at least one of these. And that's why we built RealDom.          </p>
+If you&apos;ve searched for an apartment in Nigeria, you&apos;ve gone through at least one of these. And that&apos;s why we built RealDom.          </p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 mb-12">
